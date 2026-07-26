@@ -160,7 +160,7 @@ Process finished with exit code 0
 <br>
 
 ### Задание 1: Абитуриенты
-```PostgreSQL
+```sql
 SELECT 
     id, 
     scores, 
@@ -181,7 +181,7 @@ FROM
 <br>
 
 ### Задание 3: Покупки
-```PostgreSQL
+```sql
 SELECT 
     a.client_id AS client_id
 FROM 
