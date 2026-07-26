@@ -159,6 +159,10 @@ Process finished with exit code 0
 # Блок 3: SQL
 <br>
 
+В данном блоке используется синтаксис PostgreSQL
+
+<br>
+
 ### Задание 1: Абитуриенты
 ```sql
 SELECT 
